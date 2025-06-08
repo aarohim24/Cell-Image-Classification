@@ -1,4 +1,4 @@
-#Cell Image Classification Using CNNs
+Cell Image Classification Using CNNs
 
 This beginner-friendly project demonstrates how to build a Convolutional Neural Network (CNN) to classify microscopic images of blood cells using Python and TensorFlow/Keras. It combines machine learning with biological data to explore how deep learning can assist in medical image analysis.
 
